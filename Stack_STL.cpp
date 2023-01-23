@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     //STACK
     
-    /*stack<int>st; //declare
+    stack<int>st; //declare
     st.push(1);
     st.push(2);
     st.push(3);
@@ -45,7 +45,7 @@ int main() {
     while (!mystack2.empty()) {
         cout<<mystack2.top()<<" ";
         mystack2.pop();
-    }*/
+    }
     //{1,2,3,4,5}
-    //Peek(): Prints the top element of the stack 5
+    Peek(): Prints the top element of the stack 5
 }
